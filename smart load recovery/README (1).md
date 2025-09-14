@@ -44,13 +44,6 @@ This project performs:
 - Experiment with ensemble models or XGBoost
 
 ---
-## PLOTS
-![newplot](https://github.com/user-attachments/assets/53a1abd8-4a22-44aa-b189-231cb2d34baf)
-![newplot (1)](https://github.com/user-attachments/assets/0fcaf1e4-a578-4cad-8b13-a0e9bd1fbe48)
-![newplot (2)](https://github.com/user-attachments/assets/80f3f7bd-ccfd-49a6-a84e-123c41996bf8)
-![newplot (3)](https://github.com/user-attachments/assets/a1f20497-cd4a-406b-9f13-79e7d5f0b7ce)
-![newplot (4)](https://github.com/user-attachments/assets/5249ebe2-ce4b-4266-8945-ac4db567b73f)
-
 
 Feel free to fork or star ⭐ the repo if you find it useful!
 
